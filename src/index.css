@@ -1,0 +1,21 @@
+body{
+    background-color:#bae7ff;
+}
+.main{
+    width:100vw;
+    height:100vh;
+    background-color: #bae7ff;
+}
+.title{
+    width:100%;
+    text-align: center;
+    padding: 2%;
+    background-color: #91d5ff;
+    color:#efefef;
+}
+.bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
