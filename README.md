@@ -5,3 +5,4 @@ Installation and setup:
 2. in the IDE terminal write this comman "npm install OR npm i"
 3. to run the app write this command "npm start"
 Note: This is the client side only without the server side.
+<img src="https://drive.google.com/file/d/1aVQRD5YcxpQBtiFI0QXP2nSXKrhGC7Ly/view?usp=sharing"/>
